@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Call me Sam</title>
+    <link>https://diabhiue.github.io/</link>
+    <description>Recent content on Call me Sam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jan 2019 04:17:34 +0530</lastBuildDate>
+    
+	<atom:link href="https://diabhiue.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content</title>
+      <link>https://diabhiue.github.io/blog/content/</link>
+      <pubDate>Mon, 14 Jan 2019 04:17:34 +0530</pubDate>
+      
+      <guid>https://diabhiue.github.io/blog/content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://diabhiue.github.io/about/</link>
+      <pubDate>Mon, 14 Jan 2019 04:02:58 +0530</pubDate>
+      
+      <guid>https://diabhiue.github.io/about/</guid>
+      <description>I am a final year undergraduate student in Computer Science and Engineering Department at National Institute of Technology Jamshedpur.</description>
+    </item>
+    
+  </channel>
+</rss>
