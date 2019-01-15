@@ -6,18 +6,20 @@
     <description>Recent content on Call me Sam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jan 2019 04:17:34 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jan 2019 02:50:02 +0530</lastBuildDate>
     
 	<atom:link href="https://diabhiue.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Content</title>
-      <link>https://diabhiue.github.io/blog/content/</link>
-      <pubDate>Mon, 14 Jan 2019 04:17:34 +0530</pubDate>
+      <title>Nearest Neighbour Classifier</title>
+      <link>https://diabhiue.github.io/blog/nearest-neighbour-classifier/</link>
+      <pubDate>Tue, 15 Jan 2019 02:50:02 +0530</pubDate>
       
-      <guid>https://diabhiue.github.io/blog/content/</guid>
-      <description></description>
+      <guid>https://diabhiue.github.io/blog/nearest-neighbour-classifier/</guid>
+      <description>Anybody who have a glimpse of machine learning does know about nearest neighbour classifier as it is one of the starting lessons of machine learning. If not, you can continue.
+Here we will know the basic knowledge about nearest neighbour classifier by predicting the label of image.
+We can train images with a suitable labels done by mapping to predict the images. For example, we will label the image below as ‘Dog’.</description>
     </item>
     
     <item>
